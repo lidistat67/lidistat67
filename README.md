@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on Modmail
 - 🤔 I’m looking for help with python-bank revamped
 - 💬 Ask me about anything!
-- 📫 How to reach me: Discord: lidistat67 Email: antonyplayz75@gmail.com
+- 📫 How to reach me: You can reach me through my Discord, lidistat67 and through my email, antonyplayz75@gmail.com
 - 😄 Pronouns: Well just call me lidistat67 or Anthony
 - ⚡ Fun fact: Pteronophobia is the fear of being tickled by feathers. Say what?!?
 
