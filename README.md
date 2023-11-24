@@ -10,7 +10,5 @@
 - 😄 Pronouns: Well just call me lidistat67 or Anthony
 - ⚡ Fun fact: Pteronophobia is the fear of being tickled by feathers. Say what?!?
 
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=lidistat67&count_private=true&show_icons=true&hide=contribs&theme=vue-dark " />
-</a>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lidistat67&layout=compact&theme=vue-dark" />
 </a>
